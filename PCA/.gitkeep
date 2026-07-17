@@ -1,1 +1,13 @@
+# Principal Component Analysis (PCA)
 
+This folder contains Jupyter notebooks implementing Principal Component Analysis (PCA) for dimensionality reduction on the UNSW-NB15 dataset.
+
+## Files
+
+- UNSW-PCA-10.ipynb – PCA with 10 principal components
+- UNSW-PCA-20.ipynb – PCA with 20 principal components
+- UNSW-PCA-30.ipynb – PCA with 30 principal components
+
+## Objective
+
+Compare different PCA configurations and analyze their effect on intrusion detection performance.
